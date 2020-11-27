@@ -11,6 +11,8 @@ Flipkart+scrapping.ipynb shows to steps taken to access Flipkarts API to get all
 
 satellite_processing2.ipynb shows the step taken to image process the data collected by QGIS for satellite image processing
 
+witter_img_dwnload.py this python file is used to download images from twitter It's a two step process: first step is to get tweets along with the image links, and the second step is to download images based on those links.
+
 
 
 
