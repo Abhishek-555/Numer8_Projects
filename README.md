@@ -1,4 +1,4 @@
-### Office project
+### Numer8 projects
 This repo contaains files of all the work done in Numer8 Analytics which was the first company I got hired as a Data Scientist.
 
 Acessing+Zomato+data.ipynb file shows the step taken to access the Zomato api to download reviews for the client (Doolally) which is an online food ordering app in India.
